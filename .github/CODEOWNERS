@@ -1,0 +1,11 @@
+# Default owner for all repository content
+* @Maralmf
+
+# Repository governance
+/README.md @Maralmf
+/CONTRIBUTING.md @Maralmf
+/SECURITY.md @Maralmf
+/.gitignore @Maralmf
+
+# GitHub configuration
+/.github/ @Maralmf
