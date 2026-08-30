@@ -1,0 +1,26 @@
+# Never publish Obsidian configuration
+.obsidian/
+.obsidian/**
+# Private or working directories
+Private/
+private/
+Drafts/
+drafts/
+Working/
+working/
+Staging/
+staging/
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+# OS metadata
+.DS_Store
+Thumbs.db
+# Temporary files
+*.tmp
+*.bak
+*~
