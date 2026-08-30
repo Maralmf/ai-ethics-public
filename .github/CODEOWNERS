@@ -1,4 +1,4 @@
-# Default owner for all repository content
+# Default owner
 * @Maralmf
 
 # Repository governance
@@ -9,3 +9,29 @@
 
 # GitHub configuration
 /.github/ @Maralmf
+
+# Obsidian configuration
+.obsidian/ @Maralmf
+**/.obsidian/ @Maralmf
+
+# Executable and script-like files
+*.js @Maralmf
+*.ts @Maralmf
+*.py @Maralmf
+*.sh @Maralmf
+*.ps1 @Maralmf
+*.bat @Maralmf
+*.cmd @Maralmf
+*.exe @Maralmf
+*.dll @Maralmf
+*.jar @Maralmf
+
+# Sensitive configuration / credential-like files
+*.env @Maralmf
+*.pem @Maralmf
+*.key @Maralmf
+*.p12 @Maralmf
+*.pfx @Maralmf
+
+# GitHub Actions
+.github/workflows/ @Maralmf
