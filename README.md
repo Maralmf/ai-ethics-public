@@ -1,106 +1,248 @@
 # AI Ethics Knowledge Base
 
-A curated public knowledge base on AI Ethics, Responsible AI, and Trustworthy AI.
+A structured and evolving knowledge base for studying the ethical, social, technical, and governance dimensions of artificial intelligence.
 
-This repository contains publication-ready notes, conceptual maps, case analyses, frameworks, and selected literature notes related to the ethical design, governance, evaluation, and use of AI systems.
+The project is designed not merely as a glossary, but as a connected learning and reasoning resource linking ethical concepts with practical analysis across the AI lifecycle.
 
-## Scope
+> This repository presents a curated public version of a broader knowledge base under active development. Its structure should not be interpreted as a claim that AI Ethics has a single universally accepted taxonomy.
 
-The knowledge base currently covers topics such as:
+---
 
-- AI Ethics foundations
-- Human rights, values, justice, and inclusion
-- Bias, fairness, and non-discrimination
-- Transparency, interpretability, and explainability
-- Privacy and data governance
-- Accountability, contestability, and redress
-- Human agency and oversight
-- Safety, robustness, reliability, and security
-- Ethical trade-offs
-- AI governance and regulation
-- Responsible AI engineering
-- Lifecycle monitoring
-- Ethical case analysis
+## Start Here
 
-## Repository Structure
+New to AI Ethics?
 
-The public knowledge base is organized around:
+→ [What is AI Ethics](./knowledge-base/002%20What%20is%20AI%20Ethics.md)
 
-- `Concepts/` — atomic notes on individual AI Ethics concepts
-- `Frameworks/` — regulatory, governance, and ethical frameworks
-- `Cases/` — public case studies and ethical incidents
-- `Literature-Notes/` — selected notes on papers, reports, and books
-- `MOCs/` — Maps of Content connecting related concepts
+---
 
-The exact structure may evolve as the knowledge base develops.
+## Guided Learning Paths
 
-## Security and Publication Boundary
+The learning paths provide a progressive route through the knowledge base.
 
-This repository contains **public, publication-ready material only**.
+### Beginner
 
-It is intentionally separated from the private authoring environment used to develop and review the knowledge base.
+Introduces the foundational ethical questions surrounding AI, including:
 
-The following must never be published here:
+- harm and power
+- human rights and justice
+- bias and fairness
+- transparency and explainability
+- human oversight
+- privacy
+- safety
+- accountability
+- governance
+- misuse
+- sustainability
+- ethical trade-offs
 
-- private research notes
-- unpublished confidential material
-- personal or sensitive information
-- credentials, API keys, tokens, or secrets
-- private datasets
-- copyrighted source files that cannot legally be redistributed
-- Obsidian configuration or plugin files
-- executable scripts or workflow files submitted as content
+→ [003 Learning Path - Beginner](./knowledge-base/003%20Learning%20Path%20-%20Beginner.md)
 
-Content appearing in this repository should be treated as publicly accessible.
+### Intermediate
 
-## Using the Knowledge Base
+Moves from identifying ethical concerns toward structured analysis of:
 
-Notes are written in Markdown and may contain Obsidian-style internal links such as:
+- bias mechanisms
+- construct validity
+- classification errors
+- fairness criteria
+- fairness auditing
+- mitigation
+- transparency artifacts
+- meaningful human oversight
+- data governance
+- accountability infrastructure
+- AI impact assessment
+- governance and residual risk
 
-`[[Algorithmic Bias]]`
+→ [004 Learning Path - Intermediate](./knowledge-base/004%20Learning%20Path%20-%20Intermediate.md)
 
-These links represent conceptual relationships between notes.
+### Advanced
 
-The repository can be browsed directly on GitHub or cloned locally for Markdown-based knowledge management.
+Develops more advanced reasoning about:
+
+- fairness incompatibilities
+- causal fairness
+- intersectional uncertainty
+- post-hoc explainability
+- uncertainty and distribution shift
+- robustness and resilience
+- dynamic human–AI control
+- ethical requirements
+- AI assurance
+- residual ethical risk
+- lifecycle monitoring
+- incident response
+- multi-objective ethical reasoning
+- proportionality, necessity, and precaution
+
+→ [005 Learning Path - Advanced](./knowledge-base/005%20Learning%20Path%20-%20Advanced.md)
+
+---
+
+## Current Public Scope
+
+This initial public release focuses on:
+
+1. foundational understanding of AI Ethics
+2. a Beginner learning path
+3. an Intermediate learning path
+4. an Advanced learning path
+
+The broader knowledge base is still under development.
+
+Future reviewed releases may include:
+
+- foundational concept notes
+- Maps of Content (MOCs)
+- human rights and justice
+- harm, risk, and power
+- bias and fairness
+- privacy and data governance
+- transparency and explainability
+- human agency and oversight
+- safety, security, robustness, and reliability
+- accountability, contestability, and redress
+- governance and regulation
+- Responsible AI engineering and assurance
+- lifecycle monitoring and incident management
+- cases and incidents
+- academic literature
+- methods and metrics
+
+---
+
+## Core Perspective
+
+AI Ethics asks not only:
+
+> **Can an AI system work?**
+
+but also:
+
+> **Should it be used, under what conditions, for whose benefit, at whose risk, subject to which rights and obligations, supported by what evidence, and accountable to whom?**
+
+A recurring reasoning structure throughout the project is:
+
+**Purpose & Alternatives**
+
+↓
+
+**Stakeholders & Power**
+
+↓
+
+**Values & Rights**
+
+↓
+
+**Potential Harms**
+
+↓
+
+**Ethical Principles**
+
+↓
+
+**Requirements**
+
+↓
+
+**Evidence & Controls**
+
+↓
+
+**Decision**
+
+↓
+
+**Residual Risk**
+
+↓
+
+**Monitoring**
+
+↓
+
+**Reassessment**
+
+---
+
+## Important Principles
+
+This knowledge base treats AI as part of a wider **socio-technical system** rather than evaluating algorithms in isolation.
+
+It also maintains several important distinctions:
+
+- technical performance ≠ ethical acceptability
+- explanation ≠ justification
+- fairness ≠ justice
+- statistical disparity ≠ discrimination
+- human-in-the-loop ≠ meaningful human control
+- legal compliance ≠ overall ethical acceptability
+- risk estimation ≠ risk acceptability
+
+No single metric, audit, framework, standard, regulation, or assessment is sufficient on its own to establish the overall ethical acceptability of an AI system or its use.
+
+---
+
+## Project Status
+
+**Current release:** Public v0.1 — Foundations & Learning Paths
+
+The repository is intentionally being developed incrementally.
+
+Only reviewed material is added to the public repository. Draft notes, private research materials, internal workflows, and unfinished content remain outside the public repository.
+
+---
 
 ## Contributing
 
-External contributions are welcome through a controlled review process.
+Contributions are welcome through Pull Requests.
 
-Contributors must:
+Please read:
 
-1. Fork this repository
-2. Create a separate branch
-3. Make the proposed change
-4. Submit a Pull Request
-5. Wait for maintainer review
+→ [CONTRIBUTING.md](./CONTRIBUTING.md)
 
-Direct write access to the main repository is not provided to external contributors.
+before proposing changes.
 
-All contributions must follow the rules in:
+External contributions are reviewed before being merged.
 
-[CONTRIBUTING.md](CONTRIBUTING.md)
+---
 
-## Contribution Model
+## Security
 
-The contribution workflow follows a zero-trust principle:
+This public repository is intentionally isolated from the private authoring environment.
 
-`Fork → Pull Request → Review → Approval → Merge`
+Please do not submit:
 
-A contribution is not considered part of the official knowledge base until it has been reviewed and merged by the maintainer.
+- secrets or credentials
+- private or personal information
+- internal configuration files
+- `.obsidian` data
+- executable scripts unless explicitly requested
+- copyrighted full-text material without permission
 
-## Status
+For security-related information, see:
 
-This knowledge base is under active development.
+→ [SECURITY.md](./SECURITY.md)
 
-Taxonomy, note structure, and metadata conventions may evolve as the project matures.
+---
 
-## Maintainer
+## Repository Structure
 
-Maintained by the repository owner.
-
-## License
-
-No general reuse license has been selected yet.
-
-Unless and until a license is added, applicable copyright rules remain in effect.
+```text
+ai-ethics-public/
+│
+├── knowledge-base/
+│   ├── 002 What is AI Ethics.md
+│   ├── 003 Learning Path - Beginner.md
+│   ├── 004 Learning Path - Intermediate.md
+│   └── 005 Learning Path - Advanced.md
+│
+├── .github/
+├── .gitignore
+├── CONTRIBUTING.md
+├── README.md
+└── SECURITY.md
