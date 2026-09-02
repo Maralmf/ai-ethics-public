@@ -11,8 +11,7 @@ updated: 2026-09-01
 This learning path moves from identifying ethical concerns to analyzing how they arise, how they can be evaluated, and how organizations can respond through measurement, auditing, mitigation, documentation, oversight, assessment, and governance.
 
 It assumes familiarity with the foundational concepts introduced in:
-
-→ [003 Learning Path - Beginner](<003 Learning Path - Beginner>)
+ → [003 Learning Path - Beginner](./003%20Learning%20Path%20-%20Beginner.md)
 
 The focus is not yet on advanced causal fairness, formal impossibility results, advanced explainability methods, or specialized assurance techniques.
 
@@ -352,3 +351,5 @@ For example:
 gender analysis
 +
 race analysis
+
+→ [005 Learning Path - Advanced](./005%20Learning%20Path%20-%20Advanced.md)
