@@ -40,11 +40,11 @@ By the end of this learning path, you should be able to:
 # Stage 1 — What Is AI Ethics?
 
 1. [002 What is AI Ethics](./002%20What%20is%20AI%20Ethics.md)
-2. [Ethical AI](<Ethical AI>)
-3. [Responsible AI](<Responsible AI>)
-4. [Trustworthy AI](<Trustworthy AI>)
-5. [AI Non-Neutrality](<AI Non-Neutrality>)
-6. [Socio-Technical Systems](<Socio-Technical Systems>)
+2. [Ethical AI]
+3. [Responsible AI]
+4. [Trustworthy AI]
+5. [AI Non-Neutrality](
+6. [Socio-Technical Systems]
 
 ### Key Question
 
@@ -68,11 +68,11 @@ In this knowledge base, they are used as working distinctions rather than as a u
 
 # Stage 2 — Harm, Stakeholders & Power
 
-7. [Harm](Harm)
-8. [Individual Harm](<Individual Harm>)
-9. [Group Harm](<Group Harm>)
-10. [Vulnerability](Vulnerability)
-11. [Power Asymmetry](<Power Asymmetry>)
+7. [Harm]
+8. [Individual Harm]
+9. [Group Harm]
+10. [Vulnerability]
+11. [Power Asymmetry]
 
 ### Key Question
 
@@ -94,10 +94,10 @@ Ethical analysis should therefore consider not only whether harm occurs, but als
 
 # Stage 3 — Rights, Justice & Non-Discrimination
 
-12. [Human Dignity](<Human Dignity>)
-13. [Human Rights](<Human Rights>)
-14. [Justice](Justice)
-15. [Non-Discrimination](<0130 Non-Discrimination>)
+12. [Human Dignity]
+13. [Human Rights]
+14. [Justice]
+15. [Non-Discrimination]
 
 ### Key Question
 
@@ -123,12 +123,12 @@ A system can perform well statistically while still creating ethically significa
 
 # Stage 4 — Bias & Fairness
 
-16. [Historical Bias](<0101 Historical Bias>)
-17. [Representation Bias](<0102 Representation Bias>)
-18. [Algorithmic Bias](<0109 Algorithmic Bias>)
-19. [Fairness](<0120 Fairness>)
-20. [Group Fairness](<0121 Group Fairness>)
-21. [Bias vs Fairness](<Bias vs Fairness>)
+16. [Historical Bias]
+17. [Representation Bias]
+18. [Algorithmic Bias]
+19. [Fairness]
+20. [Group Fairness]
+21. [Bias vs Fairness]
 
 ### Key Question
 
@@ -176,10 +176,10 @@ A decision can be understandable while still being harmful or unacceptable.
 
 # Stage 6 — Human Agency & Oversight
 
-27. [Human Oversight](<Human Oversight>)
-28. [Human-in-the-Loop](Human-in-the-Loop)
-29. [Automation Bias](<Automation Bias>)
-30. [Meaningful Human Control](<Meaningful Human Control>)
+27. [Human Oversight]
+28. [Human-in-the-Loop]
+29. [Automation Bias]
+30. [Meaningful Human Control]
 
 ### Key Question
 
@@ -206,8 +206,8 @@ Human oversight should therefore be evaluated by its actual function rather than
 
 31. [Privacy](Privacy)
 32. [Consent](Consent)
-33. [Data Minimization](<Data Minimization>)
-34. [Purpose Limitation](<Purpose Limitation>)
+33. [Data Minimization]
+34. [Purpose Limitation]
 
 ### Key Question
 
@@ -235,9 +235,9 @@ More data are not automatically better data.
 
 # Stage 8 — Safety, Security & Reliability
 
-35. [AI Safety](<AI Safety>)
-36. [Reliability](Reliability)
-37. [Security](Security)
+35. [AI Safety]
+36. [Reliability]
+37. [Security]
 
 ### Key Question
 
@@ -260,10 +260,10 @@ High average performance does not eliminate safety or reliability concerns.
 
 # Stage 9 — Accountability, Contestability & Redress
 
-38. [Responsibility](Responsibility)
-39. [Accountability](Accountability)
-40. [Contestability](Contestability)
-41. [Redress](Redress)
+38. [Responsibility]
+39. [Accountability]
+40. [Contestability]
+41. [Redress]
 
 ### Key Question
 
@@ -287,9 +287,9 @@ Accountability is therefore more than simply identifying who developed the model
 
 # Stage 10 — Governance & Legitimacy
 
-42. [AI Governance](<AI Governance>)
-43. [Legitimacy](Legitimacy)
-44. [Ethics vs Law](<Ethics vs Law>)
+42. [AI Governance]
+43. [Legitimacy]
+44. [Ethics vs Law]
 
 ### Key Question
 
@@ -320,7 +320,7 @@ Compliance may be required, but ethical evaluation can raise questions that exis
 
 # Stage 11 — Misuse & Information Integrity
 
-45. [015 MOC - Misuse Manipulation & Information Integrity](<015 MOC - Misuse Manipulation & Information Integrity>)
+45. [015 MOC - Misuse Manipulation & Information Integrity]
 
 ### Key Question
 
@@ -346,8 +346,8 @@ A beneficial intended purpose does not eliminate misuse risk.
 
 # Stage 12 — Sustainability & Lifecycle Responsibility
 
-46. [016 MOC - Sustainability & Environmental Impact](<016 MOC - Sustainability & Environmental Impact>)
-47. [Post-Deployment Monitoring](<Post-Deployment Monitoring>)
+46. [016 MOC - Sustainability & Environmental Impact]
+47. [Post-Deployment Monitoring]
 
 ### Key Question
 
