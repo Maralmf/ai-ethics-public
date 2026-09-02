@@ -383,9 +383,9 @@ Systems may require continued monitoring, reassessment, restriction, redesign, o
 
 Explore potential tensions such as:
 
-- [Fairness vs Performance](<Fairness vs Performance>)
-- [Privacy vs Fairness Auditing](<Privacy vs Fairness Auditing>)
-- [Accuracy vs Explainability](<Accuracy vs Explainability>)
+- [Fairness vs Performance]
+- [Privacy vs Fairness Auditing]
+- [Accuracy vs Explainability]
 
 ### Key Question
 
@@ -499,5 +499,4 @@ If these questions can be asked clearly and their answers critically examined, t
 ## Next Step
 
 Continue to:
-
-→ [004 Learning Path - Intermediate](<004 Learning Path - Intermediate>)
+→ [004 Learning Path - Intermediate](./004%20Learning%20Path%20-%20Intermediate.md)
