@@ -6,7 +6,7 @@ domains:
 aliases:
   - What Is AI Ethics
   - Introduction to AI Ethics
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 ## Definition
@@ -15,7 +15,7 @@ AI Ethics is the interdisciplinary field concerned with the normative evaluation
 
 It examines how AI systems affect human values, rights, interests, opportunities, institutions, social relationships, and distributions of power, and asks what principles, obligations, constraints, and forms of accountability ought to govern those effects.
 
-AI Ethics therefore concerns not only algorithms or model outputs, but the wider [Socio-Technical Systems](<Socio-Technical Systems>) in which AI is embedded.
+AI Ethics therefore concerns not only algorithms or model outputs, but the wider **socio-technical systems** in which AI is embedded.
 
 ---
 
@@ -140,12 +140,12 @@ AI systems learn from or operate on data that may reflect:
 - labeling decisions
 - social bias
 
-Related:
+Related concepts:
 
-- [Historical Bias](<0101 Historical Bias>)
-- [Representation Bias](<0102 Representation Bias>)
-- [Measurement Bias](<0105 Measurement Bias>)
-- [Label Bias](<0106 Label Bias>)
+- Historical Bias
+- Representation Bias
+- Measurement Bias
+- Label Bias
 
 ---
 
@@ -153,12 +153,12 @@ Related:
 
 Some AI systems may be difficult for users, operators, affected individuals, auditors, or even developers to understand.
 
-Related:
+Related concepts:
 
-- [Transparency](Transparency)
-- [Interpretability](Interpretability)
-- [Explainability](Explainability)
-- [Black Box Problem](<Black Box Problem>)
+- Transparency
+- Interpretability
+- Explainability
+- Black Box Problem
 
 ---
 
@@ -174,10 +174,10 @@ Relevant asymmetries may exist between:
 - consumers and platforms
 - patients and healthcare institutions
 
-Related:
+Related concepts:
 
-- [Power Asymmetry](<Power Asymmetry>)
-- [Information Asymmetry](<Information Asymmetry>)
+- Power Asymmetry
+- Information Asymmetry
 
 ---
 
@@ -193,12 +193,12 @@ An AI system that appears acceptable at deployment may become problematic over t
 - deployment scope expands
 - systems are repurposed
 
-Related:
+Related concepts:
 
-- [Post-Deployment Monitoring](<Post-Deployment Monitoring>)
-- [Data Drift](<Data Drift>)
-- [Concept Drift](<Concept Drift>)
-- [Fairness Drift](<Fairness Drift>)
+- Post-Deployment Monitoring
+- Data Drift
+- Concept Drift
+- Fairness Drift
 
 Therefore:
 
@@ -334,13 +334,13 @@ Relevant question:
 
 > What benefits and harms does the system produce?
 
-Related:
+Related concepts:
 
-- [Consequentialism](Consequentialism)
-- [Utilitarianism](Utilitarianism)
-- [Beneficence](Beneficence)
-- [Non-Maleficence](Non-Maleficence)
-- [Harm](Harm)
+- Consequentialism
+- Utilitarianism
+- Beneficence
+- Non-Maleficence
+- Harm
 
 ---
 
@@ -350,14 +350,14 @@ Relevant question:
 
 > What rights, duties, or constraints should govern AI use?
 
-Related:
+Related concepts:
 
-- [Human Rights](<Human Rights>)
-- [Human Dignity](<Human Dignity>)
-- [Deontology](Deontology)
-- [Rights-Based Ethics](<Rights-Based Ethics>)
-- [Privacy](Privacy)
-- [Autonomy](Autonomy)
+- Human Rights
+- Human Dignity
+- Deontology
+- Rights-Based Ethics
+- Privacy
+- Autonomy
 
 ---
 
@@ -367,13 +367,13 @@ Relevant question:
 
 > How are benefits, burdens, risks, opportunities, and errors distributed?
 
-Related:
+Related concepts:
 
-- [Justice](Justice)
-- [Fairness](<0120 Fairness>)
-- [Equality](Equality)
-- [Equity](Equity)
-- [Non-Discrimination](<0130 Non-Discrimination>)
+- Justice
+- Fairness
+- Equality
+- Equity
+- Non-Discrimination
 
 ---
 
@@ -383,11 +383,11 @@ Relevant question:
 
 > Does the system preserve meaningful human choice, judgment, and control?
 
-Related:
+Related concepts:
 
-- [Human Agency](<Human Agency>)
-- [Human Autonomy](<Human Autonomy>)
-- [Meaningful Human Control](<Meaningful Human Control>)
+- Human Agency
+- Human Autonomy
+- Meaningful Human Control
 
 ---
 
@@ -397,13 +397,13 @@ Relevant question:
 
 > Who is answerable for decisions, risks, and consequences?
 
-Related:
+Related concepts:
 
-- [Accountability](Accountability)
-- [Responsibility](Responsibility)
-- [Liability](Liability)
-- [Contestability](Contestability)
-- [Redress](Redress)
+- Accountability
+- Responsibility
+- Liability
+- Contestability
+- Redress
 
 ---
 
@@ -415,10 +415,10 @@ Relevant questions:
 
 > How should dependency, vulnerability, relationships, and care shape ethical evaluation?
 
-Related:
+Related concepts:
 
-- [Virtue Ethics](<Virtue Ethics>)
-- [Care Ethics](<Care Ethics>)
+- Virtue Ethics
+- Care Ethics
 
 ---
 
@@ -459,22 +459,22 @@ This knowledge base organizes AI Ethics through interconnected conceptual areas.
 
 | Area | Primary Focus |
 |---|---|
-| [006 MOC - Foundations & Ethical Theory](<006 MOC - Foundations & Ethical Theory>) | Values, principles, ethical theories, and foundational distinctions |
-| [007 MOC - Human Rights Justice & Inclusion](<007 MOC - Human Rights Justice & Inclusion>) | Dignity, rights, justice, equality, equity, inclusion, and non-discrimination |
-| [008 MOC - Harm Risk & Power](<008 MOC - Harm Risk & Power>) | Harm, risk, vulnerability, uncertainty, and distributions of power |
-| [009 MOC - Bias & Fairness](<009 MOC - Bias & Fairness>) | Bias mechanisms, fairness concepts, metrics, auditing, and mitigation |
-| [010 MOC - Privacy & Data Governance](<010 MOC - Privacy & Data Governance>) | Collection, inference, use, sharing, retention, and governance of data |
-| [011 MOC - Transparency Interpretability & Explainability](<011 MOC - Transparency Interpretability & Explainability>) | What stakeholders can know, understand, and question |
-| [012 MOC - Human Agency Autonomy & Oversight](<012 MOC - Human Agency Autonomy & Oversight>) | Human authority, judgment, autonomy, reliance, and oversight |
-| [013 MOC - Safety Security Robustness & Reliability](<013 MOC - Safety Security Robustness & Reliability>) | Failure, reliability, robustness, resilience, security, and uncertainty |
-| [014 MOC - Accountability Contestability & Redress](<014 MOC - Accountability Contestability & Redress>) | Responsibility, answerability, review, correction, contestation, and remedy |
-| [015 MOC - Misuse Manipulation & Information Integrity](<015 MOC - Misuse Manipulation & Information Integrity>) | Misuse, deception, manipulation, malicious use, and information integrity |
-| [016 MOC - Sustainability & Environmental Impact](<016 MOC - Sustainability & Environmental Impact>) | Environmental, resource, and broader sustainability effects |
-| [017 MOC - Ethical Trade-offs & Decision Reasoning](<017 MOC - Ethical Trade-offs & Decision Reasoning>) | Conflicting values, proportionality, necessity, precaution, and justification |
-| [018 MOC - Governance Regulation & Legitimacy](<018 MOC - Governance Regulation & Legitimacy>) | Governance, regulation, standards, institutional authority, and legitimacy |
-| [019 MOC - Responsible AI Engineering & Assurance](<019 MOC - Responsible AI Engineering & Assurance>) | Translation of principles into requirements, controls, evidence, and assurance |
-| [020 MOC - Lifecycle Monitoring & Incident Management](<020 MOC - Lifecycle Monitoring & Incident Management>) | Post-deployment monitoring, drift, incidents, reassessment, and intervention |
-| [021 MOC - Cases & Evidence](<021 MOC - Cases & Evidence>) | Cases, incidents, empirical evidence, and applied ethical analysis |
+| Foundations & Ethical Theory | Values, principles, ethical theories, and foundational distinctions |
+| Human Rights, Justice & Inclusion | Dignity, rights, justice, equality, equity, inclusion, and non-discrimination |
+| Harm, Risk & Power | Harm, risk, vulnerability, uncertainty, and distributions of power |
+| Bias & Fairness | Bias mechanisms, fairness concepts, metrics, auditing, and mitigation |
+| Privacy & Data Governance | Collection, inference, use, sharing, retention, and governance of data |
+| Transparency, Interpretability & Explainability | What stakeholders can know, understand, and question |
+| Human Agency, Autonomy & Oversight | Human authority, judgment, autonomy, reliance, and oversight |
+| Safety, Security, Robustness & Reliability | Failure, reliability, robustness, resilience, security, and uncertainty |
+| Accountability, Contestability & Redress | Responsibility, answerability, review, correction, contestation, and remedy |
+| Misuse, Manipulation & Information Integrity | Misuse, deception, manipulation, malicious use, and information integrity |
+| Sustainability & Environmental Impact | Environmental, resource, and broader sustainability effects |
+| Ethical Trade-offs & Decision Reasoning | Conflicting values, proportionality, necessity, precaution, and justification |
+| Governance, Regulation & Legitimacy | Governance, regulation, standards, institutional authority, and legitimacy |
+| Responsible AI Engineering & Assurance | Translation of principles into requirements, controls, evidence, and assurance |
+| Lifecycle Monitoring & Incident Management | Post-deployment monitoring, drift, incidents, reassessment, and intervention |
+| Cases & Evidence | Cases, incidents, empirical evidence, and applied ethical analysis |
 
 These areas are organizational rather than claims that AI Ethics has one universally accepted taxonomy.
 
@@ -492,11 +492,9 @@ It asks:
 
 > **What ought we do regarding AI?**
 
----
-
 ### Ethical AI
 
-[Ethical AI](<Ethical AI>) refers to the aspiration that an AI system, its intended use, and the surrounding socio-technical arrangements are designed, deployed, and governed in ways that can be ethically justified.
+**Ethical AI** refers to the aspiration that an AI system, its intended use, and the surrounding socio-technical arrangements are designed, deployed, and governed in ways that can be ethically justified.
 
 It asks:
 
@@ -518,10 +516,6 @@ Important:
 
 Responsibility generally remains distributed among humans, organizations, institutions, and governance structures involved throughout the AI lifecycle.
 
-Related:
-
-- [AI Ethics vs Ethical AI](<AI Ethics vs Ethical AI>)
-
 ---
 
 ## AI Ethics, Responsible AI, Trustworthy AI, and Ethical AI
@@ -531,9 +525,9 @@ These concepts overlap, but they are not interchangeable.
 | Concept | Primary Question | Working Focus |
 |---|---|---|
 | **AI Ethics** | What ought we do regarding AI? | Normative inquiry and ethical justification |
-| [Responsible AI](<Responsible AI>) | How should responsibilities be operationalized? | Processes, requirements, controls, governance, and monitoring |
-| [Trustworthy AI](<Trustworthy AI>) | What properties, processes, and evidence justify appropriate reliance? | Trustworthiness, evidence, and assurance |
-| [Ethical AI](<Ethical AI>) | Can this system and its use be ethically justified? | Aspiration toward ethically justifiable design, use, and governance |
+| **Responsible AI** | How should responsibilities be operationalized? | Processes, requirements, controls, governance, and monitoring |
+| **Trustworthy AI** | What properties, processes, and evidence justify appropriate reliance? | Trustworthiness, evidence, and assurance |
+| **Ethical AI** | Can this system and its use be ethically justified? | Aspiration toward ethically justifiable design, use, and governance |
 
 These terms are used differently across academic, policy, standards, and industry literature.
 
@@ -589,10 +583,6 @@ One useful translation chain is:
 
 **Reassessment**
 
-Related:
-
-→ [019 MOC - Responsible AI Engineering & Assurance](<019 MOC - Responsible AI Engineering & Assurance>)
-
 This chain illustrates operationalization without implying that ethical questions can always be reduced to quantitative metrics.
 
 ---
@@ -618,11 +608,11 @@ Therefore:
 
 > **Compliance with applicable law is legally required, but legal compliance alone is not sufficient to establish ethical acceptability.**
 
-Related:
+Related distinctions:
 
-- [Ethics vs Law](<Ethics vs Law>)
-- [Legal vs Ethical vs Legitimate](<Legal vs Ethical vs Legitimate>)
-- [Compliance vs Ethical Responsibility](<Compliance vs Ethical Responsibility>)
+- Ethics vs Law
+- Legal vs Ethical vs Legitimate
+- Compliance vs Ethical Responsibility
 
 ---
 
@@ -644,11 +634,11 @@ Different objectives may interact or conflict.
 
 Potential tensions include:
 
-- [Fairness vs Performance](<Fairness vs Performance>)
-- [Privacy vs Fairness Auditing](<Privacy vs Fairness Auditing>)
-- [Accuracy vs Explainability](<Accuracy vs Explainability>)
-- [Transparency vs Security](<Transparency vs Security>)
-- [Safety vs Autonomy](<Safety vs Autonomy>)
+- Fairness vs Performance
+- Privacy vs Fairness Auditing
+- Accuracy vs Explainability
+- Transparency vs Security
+- Safety vs Autonomy
 
 However:
 
@@ -818,19 +808,19 @@ High aggregate performance does not resolve the ethical question.
 
 Were previous hiring practices themselves discriminatory?
 
-→ [Historical Bias](<0101 Historical Bias>)
+Relevant concept: **Historical Bias**
 
 ### Representation
 
 Were relevant applicant populations adequately represented?
 
-→ [Representation Bias](<0102 Representation Bias>)
+Relevant concept: **Representation Bias**
 
 ### Measurement
 
 Do the variables adequately measure job-relevant constructs?
 
-→ [Measurement Bias](<0105 Measurement Bias>)
+Relevant concept: **Measurement Bias**
 
 ### Labels
 
@@ -838,43 +828,43 @@ Does the designation "qualified" represent a defensible measure of job suitabili
 
 Was a historical hiring, promotion, or performance decision treated as objective ground truth?
 
-→ [Label Bias](<0106 Label Bias>)
+Relevant concept: **Label Bias**
 
 ### Fairness
 
 If qualified applicants should have comparable opportunities to receive a positive recommendation, is an opportunity-based fairness criterion relevant?
 
-→ [Equal Opportunity](<Equal Opportunity>)
+Relevant criterion: **Equal Opportunity**
 
 ### Explanation
 
 Can an affected applicant obtain information that is meaningful for understanding or challenging the decision?
 
-→ [Explainability](Explainability)
+Relevant concept: **Explainability**
 
 ### Human Oversight
 
 Can a human reviewer genuinely inspect, question, and override the recommendation?
 
-→ [Meaningful Human Control](<Meaningful Human Control>)
+Relevant concept: **Meaningful Human Control**
 
 ### Accountability
 
 Who is answerable for the employment decision?
 
-→ [Accountability](Accountability)
+Relevant concept: **Accountability**
 
 ### Contestability
 
 Can the applicant challenge the decision or underlying data?
 
-→ [Contestability](Contestability)
+Relevant concept: **Contestability**
 
 ### Redress
 
 Can an incorrect or harmful decision be corrected or remedied?
 
-→ [Redress](Redress)
+Relevant concept: **Redress**
 
 This example illustrates why AI Ethics evaluates the wider socio-technical decision process rather than any single model metric in isolation.
 
@@ -894,10 +884,10 @@ High performance does not establish fairness, legitimacy, privacy, safety, or et
 
 False.
 
-Related:
+Related concepts:
 
-- [Proxy Bias](<0107 Proxy Bias>)
-- [Fairness Through Unawareness](<Fairness Through Unawareness>)
+- Proxy Bias
+- Fairness Through Unawareness
 
 ---
 
@@ -907,19 +897,13 @@ False.
 
 > **Explanation ≠ Justification**
 
-Related:
-
-- [Explanation vs Justification](<Explanation vs Justification>)
-
 ---
 
 ### "If a human is in the loop, humans remain meaningfully in control."
 
 Not necessarily.
 
-Related:
-
-- [Human-in-the-Loop vs Meaningful Human Control](<Human-in-the-Loop vs Meaningful Human Control>)
+> **Human-in-the-Loop ≠ Meaningful Human Control**
 
 ---
 
@@ -927,9 +911,7 @@ Related:
 
 Not necessarily.
 
-Related:
-
-- [Compliance vs Ethical Responsibility](<Compliance vs Ethical Responsibility>)
+> **Legal compliance ≠ Overall ethical acceptability**
 
 ---
 
@@ -937,11 +919,11 @@ Related:
 
 Not necessarily.
 
-Related:
+Related concepts:
 
-- [Fairness Metric Conflicts](<0140 Fairness Metric Conflicts>)
-- [Fairness Impossibility Results](<0141 Fairness Impossibility Results>)
-- [Statistical Fairness vs Ethical Fairness](<Statistical Fairness vs Ethical Fairness>)
+- Fairness Metric Conflicts
+- Fairness Impossibility Results
+- Statistical Fairness vs Ethical Fairness
 
 ---
 
@@ -976,16 +958,16 @@ It also requires critical analysis of:
 
 ## Key Distinctions
 
-- [AI Ethics vs Ethical AI](<AI Ethics vs Ethical AI>)
-- [AI Ethics vs Responsible AI](<AI Ethics vs Responsible AI>)
-- [Responsible AI vs Trustworthy AI](<Responsible AI vs Trustworthy AI>)
-- [Ethics vs Law](<Ethics vs Law>)
-- [Fairness vs Justice](<Fairness vs Justice>)
-- [Statistical Fairness vs Ethical Fairness](<Statistical Fairness vs Ethical Fairness>)
-- [Transparency vs Interpretability vs Explainability](<Transparency vs Interpretability vs Explainability>)
-- [Explanation vs Justification](<Explanation vs Justification>)
-- [Human-in-the-Loop vs Meaningful Human Control](<Human-in-the-Loop vs Meaningful Human Control>)
-- [Accountability vs Responsibility](<Accountability vs Responsibility>)
+- AI Ethics vs Ethical AI
+- AI Ethics vs Responsible AI
+- Responsible AI vs Trustworthy AI
+- Ethics vs Law
+- Fairness vs Justice
+- Statistical Fairness vs Ethical Fairness
+- Transparency vs Interpretability vs Explainability
+- Explanation vs Justification
+- Human-in-the-Loop vs Meaningful Human Control
+- Accountability vs Responsibility
 
 ---
 
@@ -1084,3 +1066,9 @@ A useful high-level reasoning chain is:
 ↓
 
 **Reassessment**
+
+---
+
+## Continue Learning
+
+→ [003 Learning Path - Beginner](./003%20Learning%20Path%20-%20Beginner.md)
