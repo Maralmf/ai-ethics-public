@@ -39,7 +39,7 @@ By the end of this learning path, you should be able to:
 
 # Stage 1 — What Is AI Ethics?
 
-1. [002 What is AI Ethics](<002 What is AI Ethics>)
+1. [002 What is AI Ethics](./002%20What%20is%20AI%20Ethics.md)
 2. [Ethical AI](<Ethical AI>)
 3. [Responsible AI](<Responsible AI>)
 4. [Trustworthy AI](<Trustworthy AI>)
