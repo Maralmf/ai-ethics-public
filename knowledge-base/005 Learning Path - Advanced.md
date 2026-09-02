@@ -75,10 +75,10 @@ By the end of this learning path, you should be able to:
 
 # Stage 1 — Advanced Fairness: Calibration, Predictive Parity & Base Rates
 
-1. [Calibration](Calibration)
-2. [Predictive Parity](<Predictive Parity>)
-3. [Base Rate](<Base Rate>)
-4. [Fairness Metric Conflicts](<0140 Fairness Metric Conflicts>)
+1. [Calibration]
+2. [Predictive Parity]
+3. [Base Rate]
+4. [Fairness Metric Conflicts]
 
 ### Key Question
 
@@ -167,7 +167,7 @@ They may themselves reflect:
 
 # Stage 2 — Fairness Impossibility Results
 
-5. [Fairness Impossibility Results](<0141 Fairness Impossibility Results>)
+5. [Fairness Impossibility Results]
 
 ### Key Question
 
@@ -222,10 +222,10 @@ Metric selection may require consideration of:
 
 # Stage 3 — From Statistical Fairness to Causal Fairness
 
-6. [Counterfactual Fairness](<Counterfactual Fairness>)
-7. [Causal Fairness](<Causal Fairness>)
-8. [Causal Inference](<Causal Inference>)
-9. [Confounding](Confounding)
+6. [Counterfactual Fairness]
+7. [Causal Fairness]
+8. [Causal Inference]
+9. [Confounding]
 
 ### Key Question
 
@@ -282,11 +282,11 @@ Therefore:
 
 Prerequisite:
 
-→ [Intersectional Fairness](<0123 Intersectional Fairness>)
+→ [Intersectional Fairness]
 
-10. [Intersectional Analysis](<Intersectional Analysis>)
-11. [Subgroup Fairness](<Subgroup Fairness>)
-12. [Small-Group Uncertainty](<Small-Group Uncertainty>)
+10. [Intersectional Analysis]
+11. [Subgroup Fairness]
+12. [Small-Group Uncertainty]
 
 ### Key Question
 
@@ -354,9 +354,9 @@ But uncertainty should also not be concealed.
 
 # Stage 5 — Advanced Explainability: Post-Hoc Methods
 
-13. [SHAP](SHAP)
-14. [LIME](LIME)
-15. [Feature Attribution](<Feature Attribution>)
+13. [SHAP]
+14. [LIME]
+15. [Feature Attribution]
 
 ### Key Question
 
@@ -403,10 +403,9 @@ They do not by themselves establish:
 
 # Stage 6 — Explanation Quality
 
-16. [Explanation Fidelity](<Explanation Fidelity>)
-17. [Explanation Stability](<Explanation Stability>)
-18. [Explanation Robustness](<Explanation Robustness>)
-
+16. [Explanation Fidelity]
+17. [Explanation Stability]
+18. [Explanation Robustness]
 ### Key Question
 
 > How should the quality of an explanation itself be evaluated?
@@ -451,10 +450,10 @@ And:
 
 # Stage 7 — Uncertainty & Predictive Reliability
 
-19. [Uncertainty Estimation](<Uncertainty Estimation>)
-20. [Aleatoric Uncertainty](<Aleatoric Uncertainty>)
-21. [Epistemic Uncertainty](<Epistemic Uncertainty>)
-22. [Calibration](Calibration)
+19. [Uncertainty Estimation]
+20. [Aleatoric Uncertainty]
+21. [Epistemic Uncertainty]
+22. [Calibration]
 
 ### Key Question
 
@@ -502,11 +501,10 @@ Calibration examines whether stated confidence corresponds appropriately to obse
 
 # Stage 8 — Distribution Shift & Out-of-Distribution Risk
 
-23. [Distribution Shift](<Distribution Shift>)
-24. [Out-of-Distribution Data](<Out-of-Distribution Data>)
-25. [Out-of-Distribution Detection](<Out-of-Distribution Detection>)
-26. [Concept Drift](<Concept Drift>)
-
+23. [Distribution Shift]
+24. [Out-of-Distribution Data]
+25. [Out-of-Distribution Detection]
+26. [Concept Drift]
 ### Key Question
 
 > What happens when the environment in which the AI system operates differs from the environment represented by its development and validation data?
@@ -542,10 +540,10 @@ A model may remain technically unchanged while:
 
 # Stage 9 — Robustness, Resilience & Graceful Failure
 
-27. [Robustness](Robustness)
-28. [Resilience](Resilience)
-29. [Graceful Degradation](<Graceful Degradation>)
-30. [Fail-Safe Design](<Fail-Safe Design>)
+27. [Robustness]
+28. [Resilience]
+29. [Graceful Degradation]
+30. [Fail-Safe Design]
 
 ### Key Question
 
@@ -595,12 +593,12 @@ toward:
 
 Prerequisite:
 
-→ [Meaningful Human Control](<Meaningful Human Control>)
+→ [Meaningful Human Control]
 
-31. [Risk-Adaptive Autonomy](<Risk-Adaptive Autonomy>)
-32. [Adaptive Automation](<Adaptive Automation>)
-33. [Human-AI Teaming](<Human-AI Teaming>)
-34. [Trust Calibration](<Trust Calibration>)
+31. [Risk-Adaptive Autonomy]
+32. [Adaptive Automation]
+33. [Human-AI Teaming]
+34. [Trust Calibration]
 
 ### Key Question
 
