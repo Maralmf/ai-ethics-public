@@ -12,7 +12,7 @@ This learning path moves from identifying ethical concerns to analyzing how they
 
 It assumes familiarity with the foundational concepts introduced in:
 
-→ [003 Learning Path - Beginner](<003 Learning Path - Beginner>)
+→ [003 Learning Path - Beginner](./003%20Learning%20Path%20-%20Beginner.md)
 
 The focus is not yet on advanced causal fairness, formal impossibility results, advanced explainability methods, or specialized assurance techniques.
 
@@ -52,19 +52,18 @@ By the end of this learning path, you should be able to:
 
 # Stage 1 — How Bias Enters an AI System
 
-1. [Historical Bias](<0101 Historical Bias>)
-2. [Representation Bias](<0102 Representation Bias>)
-3. [Selection Bias](<0103 Selection Bias>)
-4. [Sampling Bias](<0104 Sampling Bias>)
-5. [Measurement Bias](<0105 Measurement Bias>)
-6. [Label Bias](<0106 Label Bias>)
-7. [Proxy Bias](<0107 Proxy Bias>)
-8. [Aggregation Bias](<0108 Aggregation Bias>)
-9. [Algorithmic Bias](<0109 Algorithmic Bias>)
-10. [Evaluation Bias](<0110 Evaluation Bias>)
-11. [Deployment Bias](<0111 Deployment Bias>)
-12. [Feedback Loop Bias](<0112 Feedback Loop Bias>)
-
+1. [Historical Bias]
+2. [Representation Bias]
+3. [Selection Bias]
+4. [Sampling Bias]
+5. [Measurement Bias]
+6. [Label Bias]
+7. [Proxy Bias]
+8. [Aggregation Bias]
+9. [Algorithmic Bias]
+10. [Evaluation Bias]
+11. [Deployment Bias]
+12. [Feedback Loop Bias]
 ### Key Question
 
 > At what points in the socio-technical lifecycle can systematic distortion or disadvantage arise?
@@ -175,10 +174,10 @@ asks whether system decisions alter the environment in ways that reinforce futur
 
 # Stage 2 — Ground Truth, Measurement & Construct Validity
 
-13. [Ground Truth](<Ground Truth>)
-14. [Construct Validity](<Construct Validity>)
-15. [Measurement Bias](<0105 Measurement Bias>)
-16. [Label Bias](<0106 Label Bias>)
+13. [Ground Truth]
+14. [Construct Validity]
+15. [Measurement Bias]
+16. [Label Bias]
 
 ### Key Question
 
@@ -309,14 +308,14 @@ They do not determine by themselves whether a disparity is ethically acceptable.
 
 # Stage 4 — From Fairness Concepts to Fairness Criteria
 
-23. [Group Fairness](<0121 Group Fairness>)
-24. [Individual Fairness](<0122 Individual Fairness>)
-25. [Intersectional Fairness](<0123 Intersectional Fairness>)
+23. [Group Fairness]
+24. [Individual Fairness]
+25. [Intersectional Fairness]
 
 Related:
 
-- [Procedural Fairness](<0124 Procedural Fairness>)
-- [Substantive Fairness](<0125 Substantive Fairness>)
+- [Procedural Fairness]
+- [Substantive Fairness]
 
 ### Key Question
 
@@ -352,3 +351,5 @@ For example:
 gender analysis
 +
 race analysis
+
+→ [005 Learning Path - Advanced](./005%20Learning%20Path%20-%20Advanced.md)
