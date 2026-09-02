@@ -27,11 +27,11 @@ It focuses on problems that emerge when:
 
 It assumes familiarity with:
 
-→ [003 Learning Path - Beginner](<003 Learning Path - Beginner>)
+→ [003 Learning Path - Beginner](./003%20Learning%20Path%20-%20Beginner.md)
 
 and
 
-→ [004 Learning Path - Intermediate](<004 Learning Path - Intermediate>)
+→ [004 Learning Path - Intermediate](./004%20Learning%20Path%20-%20Intermediate.md)
 
 The sequence is pedagogical rather than taxonomic.
 
